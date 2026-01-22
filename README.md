@@ -29,7 +29,7 @@ This is not just another update. We have completely rewritten the **iRa1n** expl
 
 We are so confident in the quality of our software that we are letting you prove it to yourself.
 
-> **⚠️ LIMITED OFFER:** Every new user gets **3 (THREE) FREE TEST UNLOCKS** for any device.
+> **⚠️ LIMITED OFFER:** Every new user gets **1 (ONE) FREE TEST UNLOCKS** for any device.
 
 Test the bypass, make a phone call, sign in to your iCloud—and only then decide if you want to purchase a lifetime license.
 
@@ -62,7 +62,7 @@ Go to the **[Releases](../../releases)** section of this repository and download
 2. Connect your iPhone/iPad via USB.
 3. Wait for the status: **"Device Connected"**.
 4. Click the **Start Bypass** button.
-5. *For the trial period:* When prompted for a license, select **"Use Trial (3 Left)"**.
+5. *For the trial period:* When prompted for a license, select **"Use Trial (1 Left)"**.
 
 ⏳ **Estimated time:** 2 to 5 minutes. The device will reboot automatically.
 
