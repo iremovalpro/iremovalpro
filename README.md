@@ -76,9 +76,6 @@ A: Yes, all Apple services work perfectly: iCloud login, App Store, FaceTime, iM
 **Q: Will the lock return if I reset the device?**
 A: Yes, if you perform a "Erase All Content and Settings" or restore via iTunes, the lock will return. However, re-bypassing the **same device** is free forever (after using your trials or buying a license).
 
-**Q: Why does my antivirus flag the software?**
-A: We use complex obfuscation and exploit injection methods to bypass Apple's security. This behavior is often flagged as a false positive by security software.
-
 ---
 
 ## ⚠️ Disclaimer
